@@ -1,0 +1,7 @@
+.env
+
+config.json
+
+logs
+
+dags/data-ingestion-dag/__pycache__
