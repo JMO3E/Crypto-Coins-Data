@@ -4,4 +4,8 @@ config.json
 
 logs
 
+csv
+
+db
+
 dags/data-ingestion-dag/__pycache__
