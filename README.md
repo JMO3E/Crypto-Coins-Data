@@ -105,11 +105,11 @@
 
 ### 1. Real-Time Data Availability
 
-1. By automating data extraction from the CoinMarketCap API, the data lake is continuously updated with the latest cryptocurrency information.
+* By automating data extraction from the CoinMarketCap API, the data lake is continuously updated with the latest cryptocurrency information.
 
 ### 2. Cost-Effective Storage and Scalability
 
-1. AWS S3 provides cost-effective storage for large volumes of data.
+* AWS S3 provides cost-effective storage for large volumes of data.
 
 ## Data Visualization
 ![CoinMarketCap Analytics](img/CoinMarketCapAnalytics.png)
