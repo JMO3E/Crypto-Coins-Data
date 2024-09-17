@@ -1,6 +1,6 @@
 # Crypto Coins Data
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is an end-to-end data project for building an ETL pipeline that extract data from CoinMarketCap API periodically (every five minute), then clean the data and transform it to csv files, and finally store the files in a data lake in AWS Cloud S3 bucket.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Crypto Coins Data is an end-to-end data project that consist of building an ETL pipeline to extract data from CoinMarketCap API periodically (every five minute), then clean the data and save it to csv files, and finally store the files in a data lake in AWS Cloud S3 bucket.
 
 ## Tools & Technologies
 * Cloud - [AWS Cloud](https://aws.amazon.com/)
