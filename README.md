@@ -12,7 +12,7 @@
 * Language - [Python](https://www.python.org/)
 
 ## Architecture
-![CoinMarketCap Architecture](img/CoinMarketCapETL.png)
+![CoinMarketCap Architecture](img/CryptoCoinPipeline.png)
 
 ## Project Steps
 
